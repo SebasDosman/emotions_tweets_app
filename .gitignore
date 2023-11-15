@@ -12,9 +12,3 @@ env/
 .session/
 .cache/
 streamlit/*.log
-
-# Another files
-*.log
-*.csv
-*.png
-*.jpg
